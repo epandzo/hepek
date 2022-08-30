@@ -1,5 +1,6 @@
 if __name__ == "__main__":
-    print("Hello konflikt")
+    print("Hello konflikt rezolved")
+    print("Sukob Hello there rezolved ")
 
     print("this is a new feature developed by awindu")
 

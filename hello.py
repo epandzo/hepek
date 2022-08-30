@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    print("Sukob Hello there")
+    print("Opet sukob ha ja Hello there")
 
     print("this is a new feature developed by awindu")
 
